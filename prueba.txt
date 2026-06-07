@@ -1,7 +1,6 @@
 Hola Git 
 Segunda linea 
 
-- Huevos
 - Carne
 - Verduras
 - Queso
