@@ -1,5 +1,4 @@
 Lista de Compras
-
 - Carne
 - Verduras
 - Queso
