@@ -1,6 +1,5 @@
-LISTA DE MERCADO
-- Carne
-- Verduras
-- Queso
+LISTA DE Kiosco
 
-RECORDAR: los BTC
+1) Galletitas
+2) Cargar SUBE
+3) Chocolates
