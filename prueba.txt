@@ -1,4 +1,4 @@
-LISTA DE Kiosco
+LISTA DE SUPERMERCADO.
 
 1) Galletitas
 2) Cargar SUBE
