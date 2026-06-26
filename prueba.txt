@@ -1,5 +1,5 @@
-LISTA DE SUPERMERCADO.
+LISTA DE GENERAL.
 
 1) Galletitas
 2) Cargar SUBE
-3) Chocolates
+3) Harina
